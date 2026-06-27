@@ -1,0 +1,6 @@
+{
+  "name": "Smart Inventory Demand Forecasting System",
+  "description": "An AI-powered and statistical inventory demand forecasting dashboard featuring seasonal prediction, automated reorder tracking, and smart restock analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
